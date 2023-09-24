@@ -1,9 +1,9 @@
 {
-    "name": "Example LEB Mod",
-    "description": "This is an example mod, your description goes here!",
-    "authors": "DBTDerpbox",
+    "name": "TheFiveBiomes",
+    "description": "There are five biomes, a snow tundra, a jungle biome, mesa biome, an ocean, and finally the plains biome.",
+    "authors": "NTyree, and PhantomAqua",
     "version": "1",
-    "id": "examplemod",
+    "id": "TheFiveBiomes",
     "type": "map",
     "pack": "vanilla",
     "hassmall": false,
@@ -11,7 +11,7 @@
     "haslargeplus": false,
     "hasremastered": false,
     "centercoords_small": "0 0 0",
-    "centercoords_large": "0 0 0",
+    "centercoords_large": "-10099 105 -2104",
     "centercoords_largeplus": "0 0 0",
     "centercoords_remastered": "0 0 0"
 }
