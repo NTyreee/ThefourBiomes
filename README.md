@@ -1,7 +1,5 @@
-# Example LEM Mod
+# The Five Biomes LEM Mod
 
-Example LEM-ModTools repository, it has a example map inside it as well if you want to just test out the compiler
+"There are five biomes, a snow tundra, a jungle biome, mesa biome, an ocean, and finally the plains biome."
 
-If you're actually making a map, you should replace the example map with yours
-
-For information on how to actually use this repository, please see the [LEM-ModTools documentation](https://github.com/Legacy-Edition-Minigames/ModTools/wiki)
+LEM Mod made by NTyree, and PhantomAqua
