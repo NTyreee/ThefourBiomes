@@ -1,9 +1,9 @@
 {
-    "name": "TheFiveBiomes",
+    "name": "The Five Biomes",
     "description": "There are five biomes, a snow tundra, a jungle biome, mesa biome, an ocean, and finally the plains biome.",
     "authors": "NTyree, and PhantomAqua",
     "version": "1",
-    "id": "TheFiveBiomes",
+    "id": "thefivebiomes",
     "type": "map",
     "pack": "vanilla",
     "hassmall": false,
